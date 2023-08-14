@@ -1,0 +1,16 @@
+body{
+    background-color:#044800;
+}
+p{
+    font-size:larger;
+}
+h2{
+    margin-left:20px;
+    color:red;
+}
+hr{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    border:none;
+}
